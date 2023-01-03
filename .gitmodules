@@ -1,3 +1,6 @@
 [submodule "projects/common-app"]
 	path = projects/common-app
 	url = git@github.com:EneaSys/enge-common-app.git
+[submodule "projects/common-lib"]
+	path = projects/common-lib
+	url = git@github.com:EneaSys/enge-common-lib.git
